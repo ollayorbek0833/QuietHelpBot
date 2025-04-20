@@ -1,1 +1,1 @@
-python "quiet_help.py"
+web: python quiet_help.py
